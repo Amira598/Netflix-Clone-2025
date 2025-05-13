@@ -56,7 +56,8 @@
 }
 .nav__black{
     background-color: rgb(20, 20, 20);
-}.header-container{
+} 
+.header-container{
     width: 90%;
     display: flex;
     justify-content: space-between;
