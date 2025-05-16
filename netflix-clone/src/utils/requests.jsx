@@ -13,4 +13,6 @@ const requests = {
 };
 console.log(requests);
 console.log(requests.fetchNetflixOriginals);
+console.log(requests.fetchTrending);
+console.log(requests.fetchTopRatedMovies);
 export default requests;
