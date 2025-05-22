@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
 
 // base:"/Netflix-Clone-2025/",
-base:"./"
+base:"/netflix-clone/"
 })
